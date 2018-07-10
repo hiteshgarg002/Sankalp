@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="titles">
+        <item>All Users</item>
+        <item>Add Users</item>
+        <item>Delete Users</item>
+    </string-array>
+
+</resources>
